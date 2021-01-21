@@ -24,6 +24,11 @@ button.btn4 {
   font-size: 1rem;
   font-weight: bold;
 }
+
+.blueBtn {
+  background-color: "blue";
+}
+
 button.btn1:active,
 button.btn2:active,
 button.btn3:active,
